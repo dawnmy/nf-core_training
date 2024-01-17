@@ -1,0 +1,11 @@
+# CONDA ENVIRONMENT FILE
+name: nf_metag
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - nextflow=23.10.1
+  - nf-core
+  - R
+  - singularity=3.8.6
