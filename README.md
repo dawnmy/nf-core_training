@@ -15,7 +15,7 @@ nextflow run nf-core/mag -profile test,YOURPROFILE --outdir <OUTDIR>
 ```
 
 ## Download databases
-- mOTUS
+- mOTUs
 - metaPhlAn
 - Kraken/Bracken
 - Centrifuge
