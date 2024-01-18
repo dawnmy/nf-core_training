@@ -9,3 +9,10 @@ dependencies:
   - nf-core
   - R
   - singularity=3.8.6
+  - bwa=0.7.17
+  - fastp
+  - samtools=1.17
+  - salmon
+  - fastqc
+  - multiqc
+  - megahit
