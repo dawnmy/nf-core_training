@@ -5,13 +5,13 @@ channels:
   - bioconda
   - defaults
 dependencies:
-  - nextflow=23.10.1
+  - nextflow
   - nf-core
   - R
   - singularity=3.8.6
-  - bwa=0.7.17
+  - bwa
   - fastp
-  - samtools=1.17
+  - samtools
   - salmon
   - fastqc
   - multiqc
