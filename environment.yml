@@ -10,6 +10,7 @@ dependencies:
   - R
   - singularity=3.8.6
   - bwa
+  - pigz
   - fastp
   - samtools
   - salmon
