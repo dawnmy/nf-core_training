@@ -17,3 +17,6 @@ dependencies:
   - fastqc
   - multiqc
   - megahit
+  - csvtk
+  - seqkit
+  - axel
